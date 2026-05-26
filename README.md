@@ -94,5 +94,11 @@ Este repositório reúne 30 comandos fundamentais agora executados diretamente n
 ## 30. whoami
 <img width="662" height="401" alt="image" src="https://github.com/user-attachments/assets/41cbca7d-99e8-4650-af69-2afa1263bee1" />
 
+---
+
+# ✅ Conclusão
+A realização deste trabalho permitiu compreender, na prática, o funcionamento de diversos comandos do sistema operacional Linux através do terminal. Durante a execução dos 30 comandos apresentados, foi possível desenvolver maior familiaridade com a navegação entre diretórios, manipulação de arquivos e pastas, gerenciamento de permissões, controle de processos e utilização de ferramentas de rede e download.
+
+Dessa forma, o trabalho proporcionou uma experiência prática importante, reforçando conhecimentos fundamentais sobre Linux e ampliando a compreensão sobre o ambiente de linha de comando, bastante presente no cotidiano de profissionais da área de TI.
 
 
