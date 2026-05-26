@@ -1,9 +1,7 @@
-# 🐧 Testando na prática nossos comandos no Linux (Ubuntu)
+# 🐧 Testando na prática comandos no terminal do Linux (Ubuntu)
 ## 📚 Dicionário de Comandos Essenciais do Linux Executados
 
-Este repositório foi criado como parte da Atividade Prática: Nossa Primeira Wiki no GitHub. O projeto reúne 30 comandos fundamentais agora executados diretamente no Linux(Ubunto).
-
----
+Este repositório reúne 30 comandos fundamentais agora executados diretamente no Linux (Ubuntu).
 
 ## 1. ls
 <img width="877" height="558" alt="image" src="https://github.com/user-attachments/assets/9e057c92-2c21-4dd8-940a-375595ce35f3" />
@@ -48,6 +46,53 @@ Este repositório foi criado como parte da Atividade Prática: Nossa Primeira Wi
 <img width="778" height="554" alt="image" src="https://github.com/user-attachments/assets/f3d299bb-f7ea-4e1b-8398-072002615c8d" />
 
 ## 15. chown
-<img width="820" height="603" alt="image" src="https://github.com/user-attachments/assets/3afb7dcb-4b82-42f3-bdf5-f515f65eebe1" />
+<img width="824" height="601" alt="image" src="https://github.com/user-attachments/assets/0156b920-6daf-47e4-89ae-7945b3d0da69" />
 
 ## 16. chmod
+<img width="823" height="602" alt="image" src="https://github.com/user-attachments/assets/c2d7c23d-ef56-433c-a8df-16802aa15198" />
+
+## 17. top
+<img width="999" height="712" alt="image" src="https://github.com/user-attachments/assets/b9ef33aa-f538-4db0-bfca-457a0b9266c8" />
+
+## 18. ps
+<img width="1003" height="712" alt="image" src="https://github.com/user-attachments/assets/128157c7-7ad8-4001-aaf4-93c4df602714" />
+
+## 19. kill
+<img width="1110" height="723" alt="image" src="https://github.com/user-attachments/assets/cecd6886-a0ed-43af-afed-b5056de589a7" />
+
+## 20. ping
+<img width="1002" height="715" alt="image" src="https://github.com/user-attachments/assets/ee0b1bda-9cf8-4bc1-9dd9-0c9f93dab227" />
+
+## 21. wget
+<img width="1000" height="709" alt="image" src="https://github.com/user-attachments/assets/9c71fa5c-8316-47cb-8de3-0e0a53e41f01" />
+
+## 22. curl
+<img width="995" height="712" alt="image" src="https://github.com/user-attachments/assets/9ab767ad-9702-4e05-b875-72769d4f0566" />
+
+## 23. df
+<img width="999" height="707" alt="image" src="https://github.com/user-attachments/assets/141996f3-d464-46cd-a0a5-1c5be0bca9ff" />
+
+## 24. du
+<img width="664" height="484" alt="image" src="https://github.com/user-attachments/assets/73a0d793-4eb3-4465-87d0-aac3df9632b4" />
+
+## 25. clear
+<img width="664" height="493" alt="image" src="https://github.com/user-attachments/assets/267ad130-56ad-42f3-baa2-63f9491372f9" />
+<img width="665" height="489" alt="image" src="https://github.com/user-attachments/assets/5e423e73-6865-4180-a7b8-25e597d52782" />
+
+## 26. history
+<img width="674" height="481" alt="image" src="https://github.com/user-attachments/assets/94d23906-d391-43bf-89d5-80c5f2f0f7d6" />
+
+## 27. apt
+<img width="637" height="393" alt="image" src="https://github.com/user-attachments/assets/9fc011fd-a471-48bd-89c6-be7016816c5f" />
+
+## 28. uname
+<img width="640" height="479" alt="image" src="https://github.com/user-attachments/assets/fc6846da-6ffe-48bd-83b3-d8e6bebdb01a" />
+
+## 29. date
+<img width="655" height="452" alt="image" src="https://github.com/user-attachments/assets/f2282e9b-afc9-41e4-9b79-46e1cdb6d9ee" />
+
+## 30. whoami
+<img width="662" height="401" alt="image" src="https://github.com/user-attachments/assets/41cbca7d-99e8-4650-af69-2afa1263bee1" />
+
+
+
