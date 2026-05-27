@@ -22,31 +22,31 @@ Este repositório reúne 30 comandos fundamentais agora executados diretamente n
 <img width="806" height="544" alt="Image" src="https://github.com/user-attachments/assets/23b6874c-cd95-40a2-8670-8ed5a3af9848" />
 
 ## 7. less
-<img width="809" height="535" alt="image" src="https://github.com/user-attachments/assets/ebda5741-c313-45e1-a2ef-b1baee0bf207" />
+<img width="809" height="535" alt="Image" src="https://github.com/user-attachments/assets/0e71572d-a46f-4e87-9fe6-e00e46d14027" />
 
 ## 8. mkdir
-<img width="784" height="555" alt="image" src="https://github.com/user-attachments/assets/07ebb218-e919-477b-a8b2-496cc74858b3" />
+<img width="784" height="555" alt="Image" src="https://github.com/user-attachments/assets/4f045c82-ffd5-4095-9871-46a9d2bb72e7" />
 
 ## 9. rm
-<img width="779" height="552" alt="image" src="https://github.com/user-attachments/assets/3ab8d1ff-393b-4fad-82ef-d298cb9cad2c" />
+<img width="779" height="552" alt="Image" src="https://github.com/user-attachments/assets/c774c702-a1f8-4792-997a-c03ed5fa9c0e" />
 
 ## 10. rmdir
-<img width="781" height="558" alt="image" src="https://github.com/user-attachments/assets/6ffe976b-d9b7-485f-8998-ea2fcd52a5ab" />
+<img width="781" height="558" alt="Image" src="https://github.com/user-attachments/assets/ce7e1297-de9d-4db2-a246-c7b0865e25f9" />
 
 ## 11. cp
-<img width="780" height="560" alt="image" src="https://github.com/user-attachments/assets/6502905b-969c-490a-ad18-79a9702c11ba" />
+<img width="780" height="560" alt="Image" src="https://github.com/user-attachments/assets/21d8e56e-4da8-461a-8215-6886bc1937fb" />
 
 ## 12. mv
-<img width="788" height="558" alt="image" src="https://github.com/user-attachments/assets/49252d7e-e0ed-49d9-9d56-377a43b388cf" />
+<img width="788" height="558" alt="Image" src="https://github.com/user-attachments/assets/89c38064-219b-4f8a-84f2-94f24bfd83e4" />
 
 ## 13. find
-<img width="790" height="560" alt="image" src="https://github.com/user-attachments/assets/f62c5279-7c72-4dbc-85bc-5e77586e9363" />
+<img width="790" height="560" alt="Image" src="https://github.com/user-attachments/assets/18069bc9-aaa7-4c5c-bd84-c5990800c09a" />
 
 ## 14. grep
-<img width="778" height="554" alt="image" src="https://github.com/user-attachments/assets/f3d299bb-f7ea-4e1b-8398-072002615c8d" />
+<img width="778" height="554" alt="Image" src="https://github.com/user-attachments/assets/6a690c14-0d60-466d-b128-3d9b14c7f703" />
 
 ## 15. chown
-<img width="824" height="601" alt="image" src="https://github.com/user-attachments/assets/0156b920-6daf-47e4-89ae-7945b3d0da69" />
+<img width="824" height="601" alt="Image" src="https://github.com/user-attachments/assets/b4320e83-23e7-428a-8b89-ac5b21d15f47" />
 
 ## 16. chmod
 <img width="823" height="602" alt="image" src="https://github.com/user-attachments/assets/c2d7c23d-ef56-433c-a8df-16802aa15198" />
