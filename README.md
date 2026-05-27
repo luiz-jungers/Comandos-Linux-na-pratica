@@ -49,50 +49,50 @@ Este repositório reúne 30 comandos fundamentais agora executados diretamente n
 <img width="824" height="601" alt="Image" src="https://github.com/user-attachments/assets/b4320e83-23e7-428a-8b89-ac5b21d15f47" />
 
 ## 16. chmod
-<img width="823" height="602" alt="image" src="https://github.com/user-attachments/assets/c2d7c23d-ef56-433c-a8df-16802aa15198" />
+<img width="823" height="602" alt="Image" src="https://github.com/user-attachments/assets/31f12d7d-dd5a-4e31-b46c-511cf05e4aa7" />
 
 ## 17. top
-<img width="999" height="712" alt="image" src="https://github.com/user-attachments/assets/b9ef33aa-f538-4db0-bfca-457a0b9266c8" />
+<img width="999" height="712" alt="Image" src="https://github.com/user-attachments/assets/40b84642-eb44-4130-95be-6298506c04dc" />
 
 ## 18. ps
-<img width="1003" height="712" alt="image" src="https://github.com/user-attachments/assets/128157c7-7ad8-4001-aaf4-93c4df602714" />
+<img width="1003" height="712" alt="Image" src="https://github.com/user-attachments/assets/3d61e6ce-8c02-49d9-b262-d1f0cc6ce0a4" />
 
 ## 19. kill
-<img width="1110" height="723" alt="image" src="https://github.com/user-attachments/assets/cecd6886-a0ed-43af-afed-b5056de589a7" />
+<img width="1110" height="723" alt="Image" src="https://github.com/user-attachments/assets/cbba9ae4-fc32-47d9-867c-7e6afa9bfb06" />
 
 ## 20. ping
-<img width="1002" height="715" alt="image" src="https://github.com/user-attachments/assets/ee0b1bda-9cf8-4bc1-9dd9-0c9f93dab227" />
+<img width="1002" height="715" alt="Image" src="https://github.com/user-attachments/assets/a9808984-dbc4-412c-b671-e276c83161fd" />
 
 ## 21. wget
-<img width="1000" height="709" alt="image" src="https://github.com/user-attachments/assets/9c71fa5c-8316-47cb-8de3-0e0a53e41f01" />
+<img width="1000" height="709" alt="Image" src="https://github.com/user-attachments/assets/61f16b22-3b8d-411a-8576-96a4d29c659f" />
 
 ## 22. curl
-<img width="995" height="712" alt="image" src="https://github.com/user-attachments/assets/9ab767ad-9702-4e05-b875-72769d4f0566" />
+<img width="995" height="712" alt="Image" src="https://github.com/user-attachments/assets/8d9611c4-4145-4e6b-8ec8-260a339228f6" />
 
 ## 23. df
-<img width="999" height="707" alt="image" src="https://github.com/user-attachments/assets/141996f3-d464-46cd-a0a5-1c5be0bca9ff" />
+<img width="999" height="707" alt="Image" src="https://github.com/user-attachments/assets/2d84e440-54fc-4ffb-b92a-795bf790e5a3" />
 
 ## 24. du
-<img width="664" height="484" alt="image" src="https://github.com/user-attachments/assets/73a0d793-4eb3-4465-87d0-aac3df9632b4" />
+<img width="664" height="484" alt="Image" src="https://github.com/user-attachments/assets/ccf11143-2a45-4e2a-a9d2-e006a7d90ca7" />
 
 ## 25. clear
-<img width="664" height="493" alt="image" src="https://github.com/user-attachments/assets/267ad130-56ad-42f3-baa2-63f9491372f9" />
-<img width="665" height="489" alt="image" src="https://github.com/user-attachments/assets/5e423e73-6865-4180-a7b8-25e597d52782" />
+<img width="664" height="493" alt="Image" src="https://github.com/user-attachments/assets/fb897e0d-65e6-4cb9-b662-38e549586725" />
+<img width="665" height="489" alt="Image" src="https://github.com/user-attachments/assets/64d4e60f-2383-49df-994a-c5fddcec2c49" />
 
 ## 26. history
-<img width="674" height="481" alt="image" src="https://github.com/user-attachments/assets/94d23906-d391-43bf-89d5-80c5f2f0f7d6" />
+<img width="1000" height="712" alt="Image" src="https://github.com/user-attachments/assets/8c25aa4a-e66c-4f35-b44e-d6f68d8aa4a5" />
 
 ## 27. apt
-<img width="637" height="393" alt="image" src="https://github.com/user-attachments/assets/9fc011fd-a471-48bd-89c6-be7016816c5f" />
+<img width="637" height="393" alt="Image" src="https://github.com/user-attachments/assets/4127fe65-5b0d-486f-b919-1b2a94242b52" />
 
 ## 28. uname
-<img width="640" height="479" alt="image" src="https://github.com/user-attachments/assets/fc6846da-6ffe-48bd-83b3-d8e6bebdb01a" />
+<img width="640" height="479" alt="Image" src="https://github.com/user-attachments/assets/60001236-cbf9-4fc9-bb16-9a5f5da227c6" />
 
 ## 29. date
-<img width="655" height="452" alt="image" src="https://github.com/user-attachments/assets/f2282e9b-afc9-41e4-9b79-46e1cdb6d9ee" />
+<img width="655" height="452" alt="Image" src="https://github.com/user-attachments/assets/17ed1b90-94dd-4d08-a94f-061e0efa2a6e" />
 
 ## 30. whoami
-<img width="662" height="401" alt="image" src="https://github.com/user-attachments/assets/41cbca7d-99e8-4650-af69-2afa1263bee1" />
+<img width="662" height="401" alt="Image" src="https://github.com/user-attachments/assets/67b3f925-b14d-417b-9913-3f71138c9deb" />
 
 ---
 
