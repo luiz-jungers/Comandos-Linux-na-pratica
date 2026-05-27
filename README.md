@@ -4,22 +4,22 @@
 Este repositório reúne 30 comandos fundamentais agora executados diretamente no Linux (Ubuntu).
 
 ## 1. ls
-<img width="877" height="558" alt="image" src="https://github.com/user-attachments/assets/9e057c92-2c21-4dd8-940a-375595ce35f3" />
+<img width="877" height="558" alt="Image" src="https://github.com/user-attachments/assets/c9173801-35fa-4658-8bb9-c24df8cf2827" />
 
 ## 2. cd
 <img width="783" height="553" alt="Image" src="https://github.com/user-attachments/assets/48188873-2882-4f62-8cd3-2bedcf198b62" />
 
 ## 3. pwd
-<img width="782" height="554" alt="image" src="https://github.com/user-attachments/assets/174544b1-c9cc-458f-ba4b-478981341725" />
+<img width="782" height="554" alt="Image" src="https://github.com/user-attachments/assets/71f52d77-87f8-4c40-bf8d-61689b33f7de" />
 
 ## 4. touch
-<img width="804" height="539" alt="image" src="https://github.com/user-attachments/assets/bd75dcc7-f947-449e-8e87-22011e063c38" />
+<img width="804" height="539" alt="Image" src="https://github.com/user-attachments/assets/9065a92b-9fab-4e1e-9cdd-a6e6ad4c7739" />
 
 ## 5. nano
-<img width="815" height="543" alt="image" src="https://github.com/user-attachments/assets/3d754298-711e-4b3f-b4a1-18af9d57f608" />
+<img width="815" height="543" alt="Image" src="https://github.com/user-attachments/assets/57bbf6f1-843f-452f-95f7-2459124bd263" />
 
 ## 6. cat
-<img width="806" height="544" alt="image" src="https://github.com/user-attachments/assets/fd16478c-50fd-4b95-bdbc-21f443cae04a" />
+<img width="806" height="544" alt="Image" src="https://github.com/user-attachments/assets/23b6874c-cd95-40a2-8670-8ed5a3af9848" />
 
 ## 7. less
 <img width="809" height="535" alt="image" src="https://github.com/user-attachments/assets/ebda5741-c313-45e1-a2ef-b1baee0bf207" />
