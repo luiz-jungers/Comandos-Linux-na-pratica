@@ -7,7 +7,7 @@ Este repositório reúne 30 comandos fundamentais agora executados diretamente n
 <img width="877" height="558" alt="image" src="https://github.com/user-attachments/assets/9e057c92-2c21-4dd8-940a-375595ce35f3" />
 
 ## 2. cd
-<img width="783" height="553" alt="image" src="https://github.com/user-attachments/assets/840dc68e-1753-410b-917e-7264edfde0da" />
+<img width="783" height="553" alt="Image" src="https://github.com/user-attachments/assets/48188873-2882-4f62-8cd3-2bedcf198b62" />
 
 ## 3. pwd
 <img width="782" height="554" alt="image" src="https://github.com/user-attachments/assets/174544b1-c9cc-458f-ba4b-478981341725" />
